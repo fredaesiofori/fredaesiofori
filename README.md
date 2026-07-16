@@ -143,4 +143,4 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:F9A8D4&height=100&section=footer" />
+
