@@ -19,7 +19,7 @@
 ## 🪐 My Stack in Orbit
 
 <p align="center">
-  <img src="./tech-orbit-v2.svg" width="650" alt="tech stack orbiting animation" />
+  <img src="./tech-orbit-v3.svg" width="650" alt="tech stack orbiting animation" />
 </p>
 
 ## ☁️ Cloud & DevOps
