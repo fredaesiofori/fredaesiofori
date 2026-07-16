@@ -1,4 +1,4 @@
-<img src="./hero-cinematic-intro.svg" width="100%" alt="animated intro" />
+<img src="./hero-cinematic-intro-v3.svg" width="100%" alt="animated intro" />
 
 
 
