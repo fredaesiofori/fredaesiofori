@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,100:C4B5FD&height=200&section=header&text=Hi,%20I%27m%20Freda%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,100:C4B5FD&height=200&section=header&text=Hi,%20I%20am%20Freda&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cloud%20and%20DevOps%20Engineer&descAlignY=60&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4B5FD&center=true&vCenter=true&width=500&lines=Building+on+AWS+%E2%98%81%EF%B8%8F;Automating+with+Terraform+%26+CI%2FCD;Always+learning+something+new+%F0%9F%92%AB" />
