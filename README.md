@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4B5FD&center=true&vCenter=true&width=500&lines=Building+on+AWS+%E2%98%81%EF%B8%8F;Automating+with+Terraform+%26+CI%2FCD;Always+learning+something+new+%F0%9F%92%AB" />
 </p>
 
-- ☁️ Cloud & DevOps engineer, building serverless architectures and CI/CD pipelines on AWS
+- ☁️ Cloud & DevOps engineer, building serverless architectures and CI/CD pipelines 
 - 🛠️ Recently shipped a serverless to-do app with Terraform IaC, cutting deployment time by ~80%
 - 🌸 Looking to collaborate on cloud infrastructure and DevOps automation projects
 - 💌 Reach me at fredaesiofori905@gmail.com
