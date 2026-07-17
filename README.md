@@ -22,125 +22,83 @@
   <img src="./tech-orbit-v3.svg" width="650" alt="tech stack orbiting animation" />
 </p>
 
-## ☁️ Cloud & DevOps
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
-      <br>Terraform
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
-      <br>GitHub Actions
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
 
-## 🔥 Backend
+
+## ☁️ Cloud & DevOps / Backend / Web Development / AI
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<br><b>AWS</b>
+<sub>Cloud Apps<br>Scalable Deployments</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<br><b>Docker</b>
+<sub>Containerized Apps<br>Reliable Environments</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+<br><b>Terraform</b>
+<sub>Automated Infra<br>AWS Provisioning</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<br><b>Kubernetes</b>
+<sub>Cloud Orchestration<br>Deployment Practice</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+<br><b>Firebase</b>
+<sub>App Backends<br>Real-time Data</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<br><b>React</b>
+<sub>Interactive UIs<br>Modern Web Apps</sub>
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<br><b>Node.js</b>
+<sub>API Development<br>Backend Services</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<br><b>JavaScript</b>
+<sub>Dynamic Features<br>Web Solutions</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/claude" width="40"/>
+<br><b>Claude</b>
+<sub>AI Research<br>Problem Solving</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/>
+<br><b>ChatGPT</b>
+<sub>Debugging Support<br>Technical Learning</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/githubcopilot" width="40"/>
+<br><b>Copilot</b>
+<sub>AI-Assisted Coding<br>Faster Development</sub>
+</td>
+
+</tr>
 </table>
-
-## 🌐 Web Development
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
-## 🤖 AI & Automation
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude" />
-      <br>Claude
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT" />
-      <br>ChatGPT
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Google AI Studio" />
-      <br>Google AI Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Google Stitch" />
-      <br>Google Stitch
-    </td>
-  </tr>
-</table>
-
-## 💡 AI Skills
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT" />
-      <br>Prompt Engineering
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude" />
-      <br>AI Automation
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github" width="48" height="48" alt="GitHub Copilot" />
-      <br>GitHub Copilot
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
